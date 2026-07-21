@@ -16,4 +16,4 @@
 
 * [UIAPduino開発支援ボード](http://www.picosoft.co.jp/CH32V/)  
 USB給電の場合はUIAPduinoの電圧選択ジャンパーを3.3Vにしてください。
-"# UIAPduino_svellas" 
+
